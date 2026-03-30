@@ -1,0 +1,35 @@
+# Module 1: Introduction to react native
+### what is react native ?
+
+### Expo vs React Native CLI ?
+
+
+
+# Module 2: Setup
+### Window setup
+### Running on Emulator
+### Running on Physcial Device
+
+# Module 3: Core Components
+#### • View
+#### • Text
+#### • Button,
+#### • Pressable,
+#### • Touchable
+
+# Module 4: Styling
+#### • Styling in React Native
+#### • Flexbox Layout
+#### • Theme-based Styling
+
+# Module 5: Lists & User Input
+#### • Rendering Lists
+#### • Using FlatList for efficient list rendering.
+#### • Handling IJser Input
+#### • Textlnput and buttons.
+
+# Module 6: Navigation
+#### • React Navigation
+#### • Passing Data Between Screens
+#### • More important concepts
+
